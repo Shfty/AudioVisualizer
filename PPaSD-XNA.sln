@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPaSD-XNA", "PPaSD-XNA\PPaSD-XNA\PPaSD-XNA.csproj", "{7469F0A3-52F1-450A-BA95-B876F8E080C0}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PPaSD-XNAContent", "PPaSD-XNA\PPaSD-XNAContent\PPaSD-XNAContent.contentproj", "{4BC42EDD-F5D0-4471-9EBD-55C03C0AF315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7469F0A3-52F1-450A-BA95-B876F8E080C0}.Debug|x86.ActiveCfg = Debug|x86
+		{7469F0A3-52F1-450A-BA95-B876F8E080C0}.Debug|x86.Build.0 = Debug|x86
+		{7469F0A3-52F1-450A-BA95-B876F8E080C0}.Release|x86.ActiveCfg = Release|x86
+		{7469F0A3-52F1-450A-BA95-B876F8E080C0}.Release|x86.Build.0 = Release|x86
+		{4BC42EDD-F5D0-4471-9EBD-55C03C0AF315}.Debug|x86.ActiveCfg = Debug|x86
+		{4BC42EDD-F5D0-4471-9EBD-55C03C0AF315}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
